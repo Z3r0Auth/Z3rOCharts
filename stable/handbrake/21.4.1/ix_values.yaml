@@ -1,6 +1,6 @@
 image:
-  repository: jlesage/handbrake
-  tag: v24.01.2@sha256:0752dcb72bd1d1fcbdf5e1712b693cac5cb0f23da019d526613575242d9af43c
+  repository: zocker160/handbrake-nvenc
+  tag: latest@sha256:8dd85be518e8573cfef5d3f9c46a0a517d77dd61e4a3996b46a4d10af3baadd5
   pullPolicy: IfNotPresent
 service:
   main:
