@@ -1,0 +1,40 @@
+{
+    "charts": {},
+    "test": {},
+    "stable": {
+        "handbrake": {
+            "app_readme": "<p>HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/handbrake\">https://truecharts.org/charts/stable/handbrake</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "media"
+            ],
+            "description": "HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/handbrake",
+            "location": "/home/runner/work/catalog/catalog/stable/handbrake",
+            "latest_version": "21.4.1",
+            "latest_app_version": "24.01.2",
+            "latest_human_version": "24.01.2_21.4.1",
+            "last_update": "2024-03-08 09:57:35",
+            "name": "handbrake",
+            "recommended": true,
+            "title": "Handbrake",
+            "maintainers": [
+                {
+                    "name": "Z3ROAuth",
+                    "email": "lol@nah.com",
+                    "url": "https://github.com/Z3r0Auth/Z3rOCharts"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://handbrake.fr/",
+                "https://github.com/jlesage/docker-handbrake",
+                "https://github.com/truecharts/charts/tree/master/charts/stable/handbrake",
+                "https://hub.docker.com/r/jlesage/handbrake"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/handbrake.png"
+        },
+    }
+}
