@@ -35,7 +35,7 @@
                 "https://hub.docker.com/r/jlesage/handbrake"
             ],
             "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/handbrake.png"
-        },
+        }
     },
     "dependency": {
         "clickhouse": {
